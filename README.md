@@ -1,6 +1,3 @@
-
-
-
 Encapsulation in C# – Student Management Example
 Overview
 
